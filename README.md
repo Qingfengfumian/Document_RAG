@@ -6,7 +6,7 @@ Please refer to the Docker method of installing Milvus online.
 
 ### Download Repository
 ```shell
-git clone https://github.com/JackDance/DocumentQA_RAG
+git clone https://github.com/Qingfengfumian/Document_RAG
 ```
 ### Install Python Packages
 ```shell
@@ -36,7 +36,3 @@ python knowledge_building.py --doc_folder "your local document folder path"
 cd DocumentQA_RAG
 python knowledge_retrieval.py
 ```
-## Sample Result
-
-https://github.com/JackDance/DocumentQA_RAG/assets/46999456/d01d9fa0-8b6d-473d-a23f-f46dcc8a85c9
-
